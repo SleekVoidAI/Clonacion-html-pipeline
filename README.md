@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Automation](https://img.shields.io/badge/Automation-Pipeline-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Mac-lightgrey)
+
 # HTML Cloning Pipeline for Transparency Reports
 
 Automated pipeline written in **Python** to clone, restructure, and normalize quarterly HTML transparency report structures.
